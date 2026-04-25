@@ -9,3 +9,4 @@
 - [HW5](https://colab.research.google.com/drive/1Qe5Nac-boOvcSv_0tg_KaOWcORp2KBM3)
 <h2>作業影片</h2>
 - [HW2影片](000)
+- [HW1 Part1](https://github.com/peculab/PROGRAM/blob/main/Copy_of_HW1_%E6%97%A5%E5%B8%B8%E6%94%AF%E5%87%BA%E9%80%9F%E7%AE%97%E8%88%87%E5%88%86%E6%94%A4.ipynb) 範例程式
