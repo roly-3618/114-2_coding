@@ -15,7 +15,7 @@
   * [HW5](https://colab.research.google.com/drive/1Qe5Nac-boOvcSv_0tg_KaOWcORp2KBM3)
 #
 * 作業影片
-  * [HW2影片](000)
+  * [HW2影片]([000](https://youtu.be/Du4DcisMjkc))
 #
 * 專題連結
 
