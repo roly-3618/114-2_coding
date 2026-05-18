@@ -16,6 +16,7 @@
 #
 * 作業影片
   * [HW2影片](https://youtu.be/Du4DcisMjkc)
+  * [HW3影片](https://youtu.be/vIBnQwMg2-w) 
 #
 * 專題連結
 
